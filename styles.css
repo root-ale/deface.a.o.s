@@ -1,0 +1,14 @@
+#text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#redirecciones {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+#redirecciones:hover {
+    font-size: 35px;
+    color: lightsteelblue;
+    text-decoration: underline;
+}
